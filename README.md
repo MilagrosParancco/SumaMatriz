@@ -34,7 +34,7 @@ ideal para estudios comparativos de eficiencia computacional en estructuras matr
 ## Estructura del Proyecto
 # Algoritmo en Java 
 ```bash
- git clone https://github.com/MilagrosParancco/Suma-Matriz.git
+ git clone [https://github.com/MilagrosParancco/Suma-Matriz.git](https://github.com/MilagrosParancco/SumaMatriz.git)
    cd Suma-Matriz/java
    
    javac AnillosdeMatriz.java
